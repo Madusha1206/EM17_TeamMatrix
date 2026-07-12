@@ -1,7 +1,7 @@
 # 🏆 EMINENCE 5.0 (2025) – 2nd Place
 
 <p align="center">
-  <img src="team.jpeg" alt="EMINENCE 5.0" width="850"/>
+  <img src="team.jpeg" alt="EMINENCE 5.0" width="650"/>
 </p>
 
 ## About the Achievement
